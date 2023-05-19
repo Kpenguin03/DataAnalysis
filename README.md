@@ -1,12 +1,8 @@
-# Overview
+# Overview of Data Analysis 
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+{The purpose of this project is to under stand the basics of data analysis.}
 
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
 
-{Describe your purpose for writing this software to analyze the data.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -16,15 +12,14 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{Our program will be created in the Python language. To accomplish our task we will use Pandas which is a library created for python to manipulate data.}
 
-{Describe the programming language that you used and any libraries.}
+{We will also use Mataplotlib which is a tool for plotting graphs. }
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html#min)
+* [Matplotlib](https://matplotlib.org/stable/tutorials/index.html)
 
 # Future Work
 
