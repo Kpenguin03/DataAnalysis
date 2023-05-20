@@ -1,14 +1,14 @@
 # Overview of Data Analysis 
 
-{The purpose of this project is to under stand the basics of data analysis.}
+{The purpose of this project is to understand the basics of data analysis.}
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZCYMgj4KnE0)
 
 # Data Analysis Results
 
-{List the questions and the answers you found by doing this analysis.}
+{The data set I am going over is about life expectancy in different countries. I would like to learn what country has the highest life expectancy. Which one has the lowest. I will also find some averages and learn how to graph data. }
 
 # Development Environment
 
@@ -24,6 +24,6 @@
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add a way to include user input to select just one country at a time. 
+* Let the user pic what type of graph to show.
+* Let the user pass in their own list of countries and numbers. 
